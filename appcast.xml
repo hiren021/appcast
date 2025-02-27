@@ -7,7 +7,7 @@
     <item>
         <title>Version 1.0.11</title>
         <description>Bug fixes and performance improvements.</description>
-        <pubDate>Sat, 22 Feb 2025 12:00:00 +0000</pubDate>
+        <pubDate>Thu, 27 Feb 2025 15:40:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.magichaircare.magichaircare&hl=en" 
                    sparkle:version="1.0.11" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
@@ -17,7 +17,7 @@
     <item>
         <title>Version 1.0.10</title>
         <description>Previous stable version.</description>
-        <pubDate>Thu, 27 Feb 2025 15:40:11 +0000</pubDate>
+        <pubDate>Sat, 22 Feb 2025 12:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.magichaircare.magichaircare&hl=en" 
                    sparkle:version="1.0.10" sparkle:os="android" />
     </item>
