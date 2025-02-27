@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Magics Care</title>
+    <item>
+        <title>Version 1.0.10+2</title>
+        <description>desc Версия</description>
+        <pubDate>Thu, 27 Feb 2025 15:40:11 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.magichaircare.magichaircare&pcampaignid=web_share" sparkle:version="2.0"   sparkle:os="android" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
+  </channel>
+</rss>
